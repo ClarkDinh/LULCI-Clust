@@ -14,7 +14,6 @@ Land Use and Land Cover analysis is crucial for understanding spatial dynamics i
 ## 📂 Repository Structure
 
 ```
-├── SCAN algo/                  # Optional extensions with SCAN clustering algorithm
 ├── eu_jpg/                     # European Union Urban Atlas sample images
 ├── japan_jpg/                  # Japan LULC imagery
 ├── vietnam_jpg/                # Vietnam LULC imagery
