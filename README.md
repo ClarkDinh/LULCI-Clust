@@ -1,1 +1,1 @@
-# LULCMiner
+# LULCI-Clust
