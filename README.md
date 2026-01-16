@@ -68,6 +68,8 @@ This project is licensed under the **Apache 2.0 License** – see the [LICENSE](
 ## 🌐 Citation and Acknowledgment
 
 If you use this work in your research, please cite our paper:
+
+```bibtex
 @article{dinh2025efficient,
   title={An efficient fusion-based deep learning framework for land use and land cover image clustering},
   author={Dinh, Tai and Tran, Dat and Dobe{\v{s}}ov{\'a}, Zdena and Van Hong, Huynh and Lisik, Daniil and Khan, Rameesh},
@@ -77,3 +79,4 @@ If you use this work in your research, please cite our paper:
   year={2025},
   publisher={Elsevier}
 }
+
