@@ -67,6 +67,13 @@ This project is licensed under the **Apache 2.0 License** – see the [LICENSE](
 
 ## 🌐 Citation and Acknowledgment
 
-If you use this work in your research, please cite our paper (link will be provided soon).  
-The source code and datasets are part of the forthcoming **LULCMiner** project:  
-🔗 https://github.com/ClarkDinh/LULCMiner
+If you use this work in your research, please cite our paper:
+@article{dinh2025efficient,
+  title={An efficient fusion-based deep learning framework for land use and land cover image clustering},
+  author={Dinh, Tai and Tran, Dat and Dobe{\v{s}}ov{\'a}, Zdena and Van Hong, Huynh and Lisik, Daniil and Khan, Rameesh},
+  journal={Engineering Applications of Artificial Intelligence},
+  volume={161},
+  pages={112061},
+  year={2025},
+  publisher={Elsevier}
+}
