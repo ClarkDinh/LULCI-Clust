@@ -82,5 +82,5 @@ If you use this work in your research, please cite our paper:
 ```
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=LAMDA-Tabular/TALENT&type=Date)](https://star-history.com/#LAMDA-Tabular/TALENT&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=ClarkDinh/LULCI-Clust&type=Date)](https://star-history.com/#ClarkDinh/LULCI-Clust&Date)
 
